@@ -1,1 +1,5 @@
 Helllo
+
+git reflog - Referecncia de todos os commits
+
+git reset --hard <referenca> - Para ir no estado desejado
